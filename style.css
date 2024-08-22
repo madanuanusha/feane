@@ -578,7 +578,8 @@ nav {
             background-repeat: no-repeat;
             height: 20vh;
             /* width: 48vw; */
-            width: 48%;
+            /* width: 48%; */
+            width: 100%;
         } 
        
         .bg{
@@ -719,14 +720,15 @@ nav {
             display: flex;
             /* width: 550px;
             height: 200px ; */
-            width: 250px;
+            /* width: 250px; */
+            width: 80%;
             background-color: #212931;
             align-items: center;
             padding-left: 25px;
             border-radius: 5px;
             gap: 20px;
-            margin-left: 1px;
-            margin-right: 10px;
+            margin-left: 10%;
+            margin-right: 10%;
            
 
         }
@@ -1103,7 +1105,7 @@ nav {
             text-align: center;
             font-size: xx-small;
             /* width: 620px; */
-            width: 48vw;
+            width: 100%;
          }
          .icons{
             display: flex;
