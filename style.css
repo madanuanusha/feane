@@ -1097,7 +1097,7 @@ nav {
             padding: 20px;
             text-align: center;
             font-size: xx-small;
-            width: 270px;
+            width: 100vw;
          }
          .icons{
             display: flex;
@@ -1133,16 +1133,6 @@ nav {
     }
       
 
-@media screen and (width<400px){
-    .back{
-        background-image: url("images/burgerfries.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 20vh;
-        /* width: 48vw; */
-        width: 48%;
-    } 
-}
 
 
    
