@@ -649,7 +649,7 @@ nav {
         .button{
             background-color: orange;
             color: white;
-           padding: 10px;
+           padding: 9px;
            width: 70px;
             text-align: center;
             font-size: xx-small;
@@ -726,7 +726,7 @@ nav {
             align-items: center;
             padding-left: 25px;
             border-radius: 5px;
-            gap: 20px;
+            gap: 50px;
             margin-left: 10%;
             margin-right: 10%;
            
@@ -734,8 +734,8 @@ nav {
         }
 
         .box1 img ,.box2 img{
-            width: 100px;
-            height: 100px;
+            width: 130px;
+            height: 130px;
             border-radius: 50%;
             border: 5px solid orange;
         }
@@ -753,7 +753,7 @@ nav {
             color: white;
             font-family: "Dancing Script", cursive;
             font-optical-sizing: auto;
-            font-size: large;
+            font-size: xx-large;
         }
 
         .percent{
@@ -761,7 +761,8 @@ nav {
             color: white;
             font-family: "Dancing Script", cursive;
             font-optical-sizing: auto;
-            font-size: 120%;
+            font-size: 180%;
+           
         }
       
         .sec3 h1{
@@ -770,7 +771,7 @@ nav {
             font-size: xx-large;
             text-align: center;
             width: 200px;
-            margin-left: 40px;
+            margin-left: 200px;
             margin-top: -40px;
            
         }
@@ -785,8 +786,8 @@ nav {
             gap: 10px;
             justify-content: center;
             margin-top: 15px;
-            font-size: small;
-            margin-left: -300px;
+            font-size: large;
+            margin-left: 50px;
         }
 
         .menuitems:focus{
@@ -839,10 +840,10 @@ nav {
             grid-template-columns: repeat(1, 1fr);
              grid-template-columns: 100%;
             gap: 50px;
-            width: 220px;
+            width: 70%;
             margin-top: 50px;
-            margin-left: 25px;
-            margin-right: 60px;
+            margin-left: 15%;
+            margin-right: 15%;
          
         } 
         .one{
@@ -866,12 +867,13 @@ nav {
             font-size: small;
         }
         .items img{
-            width: 250px;
-            height: 170px;
-            padding-left: -70px;
-            padding-top: 24px;
+            width: 270px;
+            height: 180px;
+            padding-left: 100px;
+           
             padding-bottom: 10px;
-            margin-left: -50px;
+            margin-left: 8%;
+            margin-right: 10%;
         }
 
         .one img:hover{
@@ -879,8 +881,8 @@ nav {
         }
 
         #but{
-            margin-top: 10px;
-            margin-left: 50px;
+            margin-top: 15px;
+            margin-left: 90px;
             width: 100px;
             font-size: small;
            
@@ -893,9 +895,9 @@ nav {
             /* margin-top: 50px;    */
             height: 65vh;
             background-color: #212931;
-            gap: 20px;
+            gap: 10px;
             /* width: 270px; */
-            width: 46vw;
+            width: 100%;
             padding-top: 60px; 
             padding-left: 140px;
             padding-right: 100px;
@@ -903,14 +905,14 @@ nav {
         }
 
         .leftone img{
-            width:150px;
-            height: 200px;
-            margin-bottom: 10px;
-            margin-left: -80px;
+            width:340px;
+            height: 300px;
+            /* margin-bottom: 10px; */
+            margin-left: -10%;
            
         }
         .rightone{
-             margin-top: 50px; 
+           margin-top: 10px;
             display: flex;
             flex-direction: column;
             /* gap: 30px; */
@@ -925,9 +927,12 @@ nav {
             font-optical-sizing: auto;
             font-size: xx-large;
             color: white;
+           
            width: 200px;
             margin-left: -90px;
-            margin-top: -200px;
+           
+           
+           
             
           
             /* text-align: center; */
@@ -958,21 +963,21 @@ nav {
         }
         .map iframe{
             /* width: 230px; */
-            width: 40vw;
+            width: 80%;
             height: 290px;
             border-radius: 10px;
-            margin-left: 10px;
-            margin-right: 15px;
+            margin-left: 10%;
+            margin-right: 10%;
         }
         .inputs{
             display: flex;
             flex-direction: column;
             /* width: 230px; */
-            width: 40vw;
+            width: 80%;
             gap: 10px;
             border: none;
-            margin-left: 10px;
-            margin-right: 10px;
+            margin-left: 10%;
+            margin-right: 10%;
             
         }
        .enter::placeholder{
@@ -988,7 +993,7 @@ nav {
             font-family: "Dancing Script", cursive;
             font-optical-sizing: auto;
             font-size: xx-large;
-           margin-left: 30px;
+           margin-left: 60px;
            width: 400px;
 
         }
@@ -999,12 +1004,13 @@ nav {
             font-size: small;
         }
 
-         .sec6 {
+         /* .sec6 {
              margin-top: 50px;
              display: flex;
              flex-direction: column;
              gap: 30px;
-            
+              margin-right: 15%;
+            margin-left: 15%;
             
          }
 
@@ -1023,9 +1029,10 @@ nav {
             padding-top: 40px;
             background-color: #212931;
             color: white;
-            /* width: 550px; */
-            width: 40vw;
+            
+            width: 100%;
             height: 200px ;
+          
             background-color: #212931;
             border-radius: 5px;
          }
@@ -1057,12 +1064,68 @@ nav {
          }
          .last{
             margin-top: 50px
-         }
+         } */
+
+         .sec6 {
+            margin-top: 50px;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            
+           
+        }
+
+        .reviews h1{
+           font-family: "Dancing Script", cursive;
+           font-optical-sizing: auto;
+           font-size: 250%;
+           text-align: center;
+           margin-bottom: 5px;
+           margin-top: 50px;
+           margin-left: 20px;
+        }
+
+        .magna,.moana{
+          
+           background-color: #212931;
+           color: white;
+           width: 95%;
+           margin-left: 5%;
+           margin-right: 15%;
+           height: 300px ;
+           background-color: #212931;
+           border-radius: 5px;
+           
+
+        }
+
+        .magna img, .moana img{
+          margin: 20px;
+           width: 150px;
+           height: 150px;
+           border-radius: 50%;
+           margin-top: 80px;
+           border: 5px solid orange;
+        }
+        .magna,.moana{
+           display: flex;
+           gap: 15px;
+        }
+        .imgs{
+           margin: 20px;
+           display: flex;
+           flex-direction: column;
+           gap: 10px;
+        }
+        .last{
+           margin-top: 50px
+        }
+
 
          .footer1{
             
             /* width: 620px; */
-            width: 48vw;
+            width: 100%;
             display: flex;
             gap: 15px;
             background-color: #212931;
@@ -1076,8 +1139,9 @@ nav {
          .contactus h2, .feane h2,.hours h2{
             font-family: "Dancing Script", cursive;
             font-optical-sizing: auto;
-            font-size: small;
+            font-size: x-large;
             margin-top: 50px;
+            margin-bottom: 15px;
 
          }
 
@@ -1086,9 +1150,9 @@ nav {
          .contactus,.feane, .hours{
             display: flex;
             flex-direction: column;
-            gap: 5px;
+            gap: 7px;
             width: 300px;
-            font-size: xx-small;
+            font-size: small;
             text-align: center;
             margin-left: 10px;
 
@@ -1114,7 +1178,7 @@ nav {
            
          }
          .icons span{
-            font-size: xx-small;
+            font-size: small;
          }
          .contactus:hover , .feane:hover,.hours:hover{
            color: orange;
@@ -1122,8 +1186,9 @@ nav {
 
          .sm{
          display: flex;
-            gap: 2px;
-             font-size: xx-small;
+            gap: 10px;
+             font-size: small;
+            margin-left: 25px;
          }
 
          .reviews{
