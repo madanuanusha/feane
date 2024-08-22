@@ -779,7 +779,7 @@ nav {
             font-size: xx-large;
             text-align: center;
             width: 200px;
-            margin-left: 200px;
+            margin-left: 130px;
             margin-top: -40px;
            
         }
@@ -795,7 +795,7 @@ nav {
             justify-content: center;
             margin-top: 15px;
             font-size: large;
-            margin-left: 50px;
+            margin-left: 10px;
         }
 
         .menuitems:focus{
