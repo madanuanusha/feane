@@ -1018,7 +1018,7 @@ nav {
             padding-top: 40px;
             background-color: #212931;
             color: white;
-            width: 230px;
+            width: 550px;
             height: 240px ;
             background-color: #212931;
             border-radius: 5px;
@@ -1055,7 +1055,7 @@ nav {
 
          .footer1{
             
-            width: 270px;
+            width: 620px;
             display: flex;
             gap: 15px;
             background-color: #212931;
@@ -1097,7 +1097,7 @@ nav {
             padding: 20px;
             text-align: center;
             font-size: xx-small;
-            width: 100vw;
+            width: 620px;
          }
          .icons{
             display: flex;
