@@ -576,7 +576,7 @@ nav {
             background-image: url("images/burgerfries.jpg");
             background-size: cover;
             background-repeat: no-repeat;
-            height: 20vh;
+            height: 100%;
             /* width: 48vw; */
             /* width: 48%; */
             width: 100%;
@@ -680,7 +680,7 @@ nav {
         }
         .content p{
             margin-bottom: 25px;
-            width: 150px;
+            width: 45%;
             font-size: xx-small;
         }
         .content .but{
