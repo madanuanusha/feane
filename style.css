@@ -893,7 +893,7 @@ nav {
             display: flex;
             flex-direction: column;
             /* margin-top: 50px;    */
-            height: 65vh;
+            height: 100vh;
             background-color: #212931;
             gap: 10px;
             /* width: 270px; */
